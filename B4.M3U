@@ -1,17 +1,17 @@
 #EXTM3U
 ################# HBO MAX FILE KODIPROP #######################################
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk2-d21.jpg" group-title="ALL", Jurassic World Rebirth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg" group-title="ALL", Jurassic World Rebirth
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2f15337fbcf-43f9-b4d2621049230e6
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2f15337fbcf-43f9-b4d2621049230e6&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/07/film-m3gan-0-2025-lk2-d21.jpg" group-title="ALL", M3GAN 2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/07/film-m3gan-0-2025-lk21-d21.jpg" group-title="ALL", M3GAN 2.0
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2addc96b-2fb5-44d952a7922103980a
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2addc96b-2fb5-44d952a7922103980a&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/08/film-wifelike-202lk2-d21.jpg" group-title="ALL", Wifelike
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/08/film-wifelike-202lk21-d21.jpg" group-title="ALL", Wifelike
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ce79d007-6a30-4c88c09-cbee79db30b7
@@ -23,7 +23,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d19a2275-12b4423-8a3f-2a0ae7cb73bd
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d19a2275-12b4423-8a3f-2a0ae7cb73bd&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/12/film-anora-2024-lk2-d21.jpg" group-title="ALL", Anora
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/12/film-anora-2024-lk21-d21.jpg" group-title="ALL", Anora
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=96292bec-4fb5-4a35-b1da-6b9e7f83cf99
@@ -35,13 +35,13 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=8eaae56e-21ad-4e26-be8e-d0539fadce0d
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8eaae56e-21ad-4e26-be8e-d0539fadce0d&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-drop-2025-lk2-d21.jpg" group-title="ALL", Drop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-drop-2025-lk21-d21.jpg" group-title="ALL", Drop
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=1c54dc08-89e4fe3-8f8f-47f0479cd8de
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1c54dc08-89e4fe3-8f8f-47f0479cd8de&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/06/film-the-phoenician-scheme-2025-lk2-d21.jpg" group-title="ALL", The Phoenician Scheme
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/06/film-the-phoenician-scheme-2025-lk21-d21.jpg" group-title="ALL", The Phoenician Scheme
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=165ba6b56dd-413997d60cd98956d8
@@ -53,7 +53,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=6e1e75a8603-4efb-910d-5abf71964383
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=6e1e75a8603-4efb-910d-5abf71964383&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/06/film-the-stranger-in-my-home-2025-lk2-d21.jpg" group-title="ALL", The Stranger In My Home
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/06/film-the-stranger-in-my-home-2025-lk21-d21.jpg" group-title="ALL", The Stranger In My Home
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=8678d4da-8626-489b-855e-c337c2bdf14b
@@ -75,13 +75,13 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=87360973-c358-4b4f-862f-afd03ad38f17
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/04/film-black-bag-2025-lk2-d21.jpg" group-title="ALL", Black Bag 2025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/04/film-black-bag-2025-lk21-d21.jpg" group-title="ALL", Black Bag 2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=207069a3057-46d0-b6ae-c2e3b3567df3
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=207069a3057-46d0-b6ae-c2e3b3567df3&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/04/film-novocaine-2025-lk2-d21.jpg" group-title="ALL", Novocaine 2025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/04/film-novocaine-2025-lk21-d21.jpg" group-title="ALL", Novocaine 2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=81da3b3654b-4119-a12a-57b185f77f93
@@ -93,61 +93,61 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=37a7bd63-e753-4c76-acd7-14df2dfdd081
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=37a7bd63-e753-4c76-acd7-14df2dfdd081&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-spin-the-bottle-2024-lk2-d21.jpg" group-title="ALL", Spin The Bottle 2024 (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-spin-the-bottle-2024-lk21-d21.jpg" group-title="ALL", Spin The Bottle 2024 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f75b4af4-36f6-4050-b244-7c77ce6c96b5
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f75b4af4-36f6-4050-b244-7c77ce6c96b5&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/04/film-the-woman-in-the-yard-2025-lk2-d21.jpg" group-title="ALL", The Woman in the Yard 2025 (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/04/film-the-woman-in-the-yard-2025-lk21-d21.jpg" group-title="ALL", The Woman in the Yard 2025 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b6874bb6-d4b8-497c-8b57-b02e2c534b99
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b6874bb6-d4b8-497c-8b57-b02e2c534b99&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk2-d21.jpg" group-title="ALL", Final Destination 1 2000 (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="ALL", Final Destination 1 2000 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=8903cf57-b224b9b-b58b-2a5a6cc1588f
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8903cf57-b224b9b-b58b-2a5a6cc1588f&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk2-d21.jpg" group-title="ALL", Final Destination 2 2003 (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="ALL", Final Destination 2 2003 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=787f950b-0fe3-4a95-911d-2553f3db9a77
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=787f950b-0fe3-4a95-911d-2553f3db9a77&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk2-d21.jpg" group-title="ALL", Final Destination 3 2006 (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="ALL", Final Destination 3 2006 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=29056e15-a4c42aa-924a032fde4451c
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=29056e15-a4c42aa-924a032fde4451c&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk2-d21.jpg" group-title="ALL", Final Destination 4 2009 (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="ALL", Final Destination 4 2009 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fb0ead35-932f-490a-85a3-c88140152a33
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fb0ead35-932f-490a-85a3-c88140152a33&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk2-d21.jpg" group-title="ALL", Final Destination 5 2011 (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="ALL", Final Destination 5 2011 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=47667ba9-6ded-44b9-8514-66c3637621cf
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=47667ba9-6ded-44b9-8514-66c3637621cf&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk2-d21.jpg" group-title="ALL", Final Destination Bloodlines 2025 (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="ALL", Final Destination Bloodlines 2025 (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=18b140b220c-4a45-b784-ffffa0293ff8
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b220c-4a45-b784-ffffa0293ff8&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/02/film-companion-2025-lk2-d21.jpg" group-title="ALL", Companion (Horror)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/02/film-companion-2025-lk21-d21.jpg" group-title="ALL", Companion (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=40d869a9-762400d-a069-4e79d10540eb
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=40d869a9-762400d-a069-4e79d10540eb&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2021/09/film-free-guy-202lk21.jpg" group-title="ALL", Fall Guy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg" group-title="ALL", Fall Guy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b997fe1d-3218-44cd-bdbb-2661f279afde
@@ -159,7 +159,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c5c76757-7f59-4878-9e97-73722da7c099
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c5c76757-7f59-4878-9e97-73722da7c099&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/10/film-khun-pan-3-2023-lk2-d21.jpg" group-title="ALL", Khunpan 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/10/film-khun-pan-3-2023-lk21-d21.jpg" group-title="ALL", Khunpan 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=08adb58b-b75a-42fe-bccb-41c27f622686
@@ -171,19 +171,19 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3cd8bb4c-a585-466bde7-e312cb938008
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3cd8bb4c-a585-466bde7-e312cb938008&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/12/film-the-lord-of-the-rings-the-war-of-the-rohirrim-2024-lk2-d21.jpg" group-title="ALL", The Lord of the Rings: The War of the Rohirrim
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/12/film-the-lord-of-the-rings-the-war-of-the-rohirrim-2024-lk21-d21.jpg" group-title="ALL", The Lord of the Rings: The War of the Rohirrim
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=1ea3e757-0445-4966-9cc3-5ce9e1714b09
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1ea3e757-0445-4966-9cc3-5ce9e1714b09&sub=t12
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/01/film-self-reliance-2024-lk2-d21.jpg" group-title="ALL", Self Reliance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/01/film-self-reliance-2024-lk21-d21.jpg" group-title="ALL", Self Reliance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=01e9a174-615d-48a9-93f5-d6c337c70ccc
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=01e9a174-615d-48a9-93f5-d6c337c70ccc&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/06/film-how-to-train-your-dragon-2025-lk2-d21.jpg" group-title="ALL", How to Train Your Dragon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/06/film-how-to-train-your-dragon-2025-lk21-d21.jpg" group-title="ALL", How to Train Your Dragon
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bd0a8a14-4c44aa9-a80e-3f60353756ef
@@ -219,7 +219,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f3bc5bd3-9c94fca-a95d2182f51c02d
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f3bc5bd3-9c94fca-a95d2182f51c02d&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/06/film-agent-recon-2024-lk2-d21.jpg" group-title="ALL", Agent Recon (2024)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/06/film-agent-recon-2024-lk21-d21.jpg" group-title="ALL", Agent Recon (2024)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=02f8940b-60b4278858-7ab6408a2cda
@@ -243,7 +243,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=44692baf-c276-4f3a-86a96884949846f
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=44692baf-c276-4f3a-86a96884949846f&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/04/film-assassin-club-2023-lk2-d21.jpg" group-title="ALL", Assassin Club (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/04/film-assassin-club-2023-lk21-d21.jpg" group-title="ALL", Assassin Club (2023)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=96ef77bc-ac39-4eab-a5dab99e350bb58
@@ -255,13 +255,13 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ddb779e0-3f76-4033-b534-4e660f7bd904
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ddb779e0-3f76-4033-b534-4e660f7bd904&sub=t9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/10/film-black-adam-202lk2-d21.jpg" group-title="ALL", Black Adam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/10/film-black-adam-202lk21-d21.jpg" group-title="ALL", Black Adam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=00522bb703f-4557-bd7e-977f4dbecdb8
 #xhttps://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=00522bb703f-4557-bd7e-977f4dbecdb8&sub=t23
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/09/film-blue-beetle-2023-lk2-d21.jpg" group-title="ALL", Blue Beetle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/09/film-blue-beetle-2023-lk21-d21.jpg" group-title="ALL", Blue Beetle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351
@@ -291,7 +291,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ab8c590d-9df490d-825d-322d06e1819d
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ab8c590d-9df490d-825d-322d06e1819d&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/01/film-christmas-carol-202lk2-d21.jpg" group-title="ALL", Christmas Carol (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/01/film-christmas-carol-202lk21-d21.jpg" group-title="ALL", Christmas Carol (2022)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=687be51e443-4f89-8f0d-58820c130bb4
@@ -303,7 +303,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=80c8d109-e7bc-483a-bf46-4b8676beee95
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=80c8d109-e7bc-483a-bf46-4b8676beee95&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/07/film-deadpool-wolverine-2024-lk2-d21.jpg" group-title="ALL", Code Name: Wolverine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/07/film-deadpool-wolverine-2024-lk21-d21.jpg" group-title="ALL", Code Name: Wolverine
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=04d06af56ca-4794-b773-c16e4f051617
@@ -321,7 +321,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e34c2a2f-acf4e94-877f-d903bedc42d3
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e34c2a2f-acf4e94-877f-d903bedc42d3&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/03/film-constantine-2014-lk2-d21.jpg" group-title="ALL", Constantine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/03/film-constantine-2014-lk21-d21.jpg" group-title="ALL", Constantine
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c6212daa5f5-4d1d-98da-459071244e65
@@ -339,7 +339,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b01dd896-026e-4c67-975e-40281af7b62c
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b01dd896-026e-4c67-975e-40281af7b62c&sub=t26
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/11/film-freelance-2023-lk2-d21.jpg" group-title="ALL", Freelance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/11/film-freelance-2023-lk21-d21.jpg" group-title="ALL", Freelance
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9dad03d0-0baa-473a-be5c-502691f5e1c9
@@ -351,7 +351,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4ff96f87-4103-4fdc-89e6-d9877753e879
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4ff96f87-4103-4fdc-89e6-d9877753e879&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/08/film-gunner-2024-lk2-d21.jpg" group-title="ALL", Gunner (2024)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/08/film-gunner-2024-lk21-d21.jpg" group-title="ALL", Gunner (2024)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4379f4d4-4de9-4d0f-bca08d008dcaf1f
@@ -393,13 +393,13 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=696c68b3-8403-4b38d66-f1a5cc6f12f8
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=696c68b3-8403-4b38d66-f1a5cc6f12f8&sub=t21
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-land-of-bad-2024-lk2-d21.jpg" group-title="ALL", Land of Bad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/02/film-land-of-bad-2024-lk21-d21.jpg" group-title="ALL", Land of Bad
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2c5c0d97-9645-4f40-b21e-e1000c9baa8f
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2c5c0d97-9645-4f40-b21e-e1000c9baa8f&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/02/film-little-dixie-2023-lk2-d21.jpg" group-title="ALL", Little Dixie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/02/film-little-dixie-2023-lk21-d21.jpg" group-title="ALL", Little Dixie
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=46405943-476b-4686-968e763ef6321a4
@@ -411,7 +411,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3820c50a093-4247-bfe9-efd51d0daf3e
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3820c50a093-4247-bfe9-efd51d0daf3e&sub=t3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/08/film-meg-2-the-trench-2023-lk2-d21.jpg" group-title="ALL", Meg 2: The Trench
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/08/film-meg-2-the-trench-2023-lk21-d21.jpg" group-title="ALL", Meg 2: The Trench
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=17aa1016-9609-4c0b-b7ed-1a687000e876
@@ -441,7 +441,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0ea4fd07-f9a4-402a-be1f-ba1f22c359b0
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0ea4fd07-f9a4-402a-be1f-ba1f22c359b0&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/04/film-the-phantom-of-the-open-2022-lk2-d21.jpg" group-title="ALL", Phantom (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/04/film-the-phantom-of-the-open-2022-lk21-d21.jpg" group-title="ALL", Phantom (2022)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bc3203b6-6158-48e4-bb6b-9240654ec3bc
@@ -453,7 +453,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c3d5f89a-75cc-4b58-8cc9-f066b4df7633
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c3d5f89a-75cc-4b58-8cc9-f066b4df7633&sub=t11
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-hellboy-the-crooked-man-2024-lk2-d21.jpg" group-title="ALL", Hellboy: The Crooked Man
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-hellboy-the-crooked-man-2024-lk21-d21.jpg" group-title="ALL", Hellboy: The Crooked Man
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=107f601e-735b-427a-b009-e9f09d0d6068
@@ -465,7 +465,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=615e94a5-7085-44cd-80dc-58c42b8d78a3
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=615e94a5-7085-44cd-80dc-58c42b8d78a3&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/07/film-sheroes-2023-lk2-d21.jpg" group-title="ALL", Sheroes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/07/film-sheroes-2023-lk21-d21.jpg" group-title="ALL", Sheroes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=29724bac-b2fa-4fd9-b08c-2b8567129eeb
@@ -489,7 +489,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ed8ee560b79-47a8dc7-c42c48b27dd8
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ed8ee560b79-47a8dc7-c42c48b27dd8&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/02/film-special-delivery-2022-lk2-d21.jpg" group-title="ALL", Special Delivery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/02/film-special-delivery-2022-lk21-d21.jpg" group-title="ALL", Special Delivery
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e95adaaa-804444806e-1ddff0337d93
@@ -507,7 +507,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=cd1f14fa-60f6-4f05-9259-09f11e671c79
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=cd1f14fa-60f6-4f05-9259-09f11e671c79&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/01/film-the-bricklayer-2023-lk2-d21.jpg" group-title="ALL", The Bricklayer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/01/film-the-bricklayer-2023-lk21-d21.jpg" group-title="ALL", The Bricklayer
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e6e095f0-f74c-4b2b237-297e7305467d
@@ -573,7 +573,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2c2c9910-dea435b-9d7c-87e7faa50e0f
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2c2c9910-dea435b-9d7c-87e7faa50e0f&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/03/film-the-twister-caught-in-the-storm-2025-lk2-d21.jpg" group-title="ALL", Twister 2024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/03/film-the-twister-caught-in-the-storm-2025-lk21-d21.jpg" group-title="ALL", Twister 2024
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b704f6c4430-4243-8be3-94ed7f85c1b1
@@ -597,13 +597,13 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=57423fab-d95a-4815-a1c2a4024a4f4d8
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=57423fab-d95a-4815-a1c2a4024a4f4d8&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/04/film-monkey-man-2024-lk2-d21.jpg" group-title="ALL", Monkey Man
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/04/film-monkey-man-2024-lk21-d21.jpg" group-title="ALL", Monkey Man
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3049acd7-c02f-431d-b8ac-47b7099f1158
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3049acd7-c02f-431d-b8ac-47b7099f1158&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/04/film-sleeping-dogs-2024-lk2-d21.jpg" group-title="ALL", Sleeping Dogs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/04/film-sleeping-dogs-2024-lk21-d21.jpg" group-title="ALL", Sleeping Dogs
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f488d297-6ec5-4578-9bd8-bb1c48fa64a1
@@ -615,7 +615,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d6ca5fb5-ba5c-439f-a72a-9bc1f225e134
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d6ca5fb5-ba5c-439f-a72a-9bc1f225e134&sub=t7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/01/film-the-policemans-lineage-2022-lk2-d21.jpg" group-title="ALL", The Policeman is Lineage
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/01/film-the-policemans-lineage-2022-lk21-d21.jpg" group-title="ALL", The Policeman is Lineage
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f6e7e626-2215-41d9-82d0-6dab49498e37
@@ -627,7 +627,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f00be1c7-0ed0-47cb-9b5a-4b37cd58fd27
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f00be1c7-0ed0-47cb-9b5a-4b37cd58fd27&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/10/film-the-limit-of-sleeping-beauty-2017-lk2-d21.jpg" group-title="ALL", The Limit (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/10/film-the-limit-of-sleeping-beauty-2017-lk21-d21.jpg" group-title="ALL", The Limit (2022)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d9b233af-8bc4ecb-92e4-23584e98f569
@@ -651,7 +651,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f41a1bb8-9033-4007-b783-72ec71bc3c93
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f41a1bb8-9033-4007-b783-72ec71bc3c93&sub=t0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-joker-folie-a-deux-2024-lk2-d21.jpg" group-title="ALL", Joker: Folie a Deux
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-joker-folie-a-deux-2024-lk21-d21.jpg" group-title="ALL", Joker: Folie a Deux
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=a3124af9-ea60-4f96-b9f4-a7d80d1b4e26
@@ -1078,3 +1078,4 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f&sub=t56
+
