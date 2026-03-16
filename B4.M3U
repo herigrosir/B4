@@ -1136,6 +1136,45 @@ http://admin.nf21.net/go/files/13223
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ALL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWY2NWE0NWEtZGUwMC00NWMwLTkyNzUtNmIxMmIyYzA0MjNiXkEyXkFqcGdeQXVyMTA2OTQ3MTUy._V1_SX300.jpg", Wonder Woman 1984 (2020)
 http://admin.nf21.net/go/files/17386
 
+#EXTINF:-1 group-title="ANAK",Nussa
+https://www.googleapis.com/drive/v3/files/1s6_B4V3RB_JwX69NcMd3cRGRFESYtxjB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/rufus.png", Adventures of Rufus The Fantastic Pet (2020) SUB INDO
+http://abf.filmbluray.id/yplvxdl
+
+#EXTINF:-1 tvg-logo="" group-title="ANAK", Dora and the Lost City of Gold (2019) [Multi-Subs]
+http://portal.ramz123.xyz:8080/movie/1bzheMa5Wo/MJJqSdP3Mm/77874.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/aladdin.png", Aladdin (2019) SUB INDO
+http://abf.filmbluray.id/5115kfz
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/dolittle.png", Dolittle (2020) SUB INDO
+http://abf.filmbluray.id/d0p7tvj
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/petes.png", Pete's Dragon (2016) SUB INDO
+http://abf.filmbluray.id/znrek2h
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/pino.png", Pinocchio (2019) SUB INDO
+http://abf.filmbluray.id/7xbzfqa
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/robo.png", Robo (2019) SUB INDO
+http://abf.filmbluray.id/og52vhf
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/sonic.png", Sonic the Hedgehog (2020) SUB INDO
+http://abf.filmbluray.id/52w61gv
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/bfg.png", The BFG (2016) SUB INDO
+http://abf.filmbluray.id/g4aipu0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/wecanbeheroes.png", We Can Be Heroes (2020) SUB INDO
+http://abf.filmbluray.id/qvnenms
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/10/8a0d1df9-4468-3df4-b57a-c64c941d0850.jpeg" group-title="ANAK", Blue Beetle
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351&sub=t17
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re1.png", Resident Evil (2002) SUB INDO
 http://abf.filmbluray.id/cfxnjkt
@@ -1208,8 +1247,6 @@ http://abf.filmbluray.id/b67096b
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr3.png", The Lord of the Rings : The Return of the King (2003)
 http://abf.filmbluray.id/x2dvwh0
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x1.png", First Class (2011) SUB INDO
 http://abf.filmbluray.id/7rmsohz
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x2.png", Days Of Future Past (2014) SUB INDO
@@ -1236,9 +1273,6 @@ http://abf.filmbluray.id/ob6xz80
 http://abf.filmbluray.id/n377lc2
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/X-Men-Dark-Phoenix.png", Dark Phoenix (2019) SUB INDO
 http://abf.filmbluray.id/n30psdu
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="https://photos.my.id/images/uLe3.png", Wonder Woman 1984 (2020) SUB INDO
 http://abf.filmbluray.id/jkdayir
@@ -1487,8 +1521,6 @@ http://abf.filmbluray.id/ddur41m
 http://abf.filmbluray.id/lxwscav
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers : War for Cybertron Trilogy" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E06 Ep.6
 http://abf.filmbluray.id/rczeph2
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPIDER-MAN" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71piCu%2BSGQL._AC_SY500_.jpg", Spiderman 2002 MD
 https://www.googleapis.com/drive/v3/files/1REkPOSU-1fLR1q4_9yS-23aQcUCUPkpw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -2502,8 +2534,6 @@ https://www.googleapis.com/drive/v3/files/1lobaiiaSHRWncAzvLYGfDn0lHxPr0Zrb?alt=
 https://www.googleapis.com/drive/v3/files/1aVg-jglDJy74On_1F1ZgAdzrfcOmEwnJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-
-
 #EXTINF:-1 group-title="VOD 2021",Safe House 1618
 https://www.googleapis.com/drive/v3/files/13DFgztkilAA-ZLwAsvli77F4qYgjOWmp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2021",Nothing Serious
@@ -2829,13 +2859,6 @@ https://www.googleapis.com/drive/v3/files/1i9Wpcg1_QhmeEq-epVdXE-hutCouSg7u?alt=
 https://www.googleapis.com/drive/v3/files/15d2G9AqhvG_OwR35w7MPlkkm7EqVd3iK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Animasi 2021",Beavis and Butt-Head Do the Universe
 
 https://www.googleapis.com/drive/v3/files/1cGahug9KL9TJDokNuipNjlXg-xHw2Oth?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -2963,8 +2986,6 @@ https://www.googleapis.com/drive/v3/files/1XklaHKaTwxQwWcPhNYzXsdC8hpVDgAxO?alt=
 #EXTINF:-1 group-title="Animasi 2021",Bright: Samurai Soul
 
 https://www.googleapis.com/drive/v3/files/1RrWGc5ZK4zs5lfbyZhdrfgBeLMsvOlWA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
 
 
 #EXTINF:-1 group-title="VOD INDO",Ayo Putus
@@ -3140,45 +3161,6 @@ https://www.googleapis.com/drive/v3/files/1Ywq2o0ndmKleStRph26gubBr4vztit9E?alt=
 #EXTINF:-1 group-title="VOD INDO",Kau & Dia
 https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="ANAK",Nussa
-https://www.googleapis.com/drive/v3/files/1s6_B4V3RB_JwX69NcMd3cRGRFESYtxjB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/rufus.png", Adventures of Rufus The Fantastic Pet (2020) SUB INDO
-http://abf.filmbluray.id/yplvxdl
-
-#EXTINF:-1 tvg-logo="" group-title="ANAK", Dora and the Lost City of Gold (2019) [Multi-Subs]
-http://portal.ramz123.xyz:8080/movie/1bzheMa5Wo/MJJqSdP3Mm/77874.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/aladdin.png", Aladdin (2019) SUB INDO
-http://abf.filmbluray.id/5115kfz
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/dolittle.png", Dolittle (2020) SUB INDO
-http://abf.filmbluray.id/d0p7tvj
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/petes.png", Pete's Dragon (2016) SUB INDO
-http://abf.filmbluray.id/znrek2h
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/pino.png", Pinocchio (2019) SUB INDO
-http://abf.filmbluray.id/7xbzfqa
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/robo.png", Robo (2019) SUB INDO
-http://abf.filmbluray.id/og52vhf
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/sonic.png", Sonic the Hedgehog (2020) SUB INDO
-http://abf.filmbluray.id/52w61gv
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/bfg.png", The BFG (2016) SUB INDO
-http://abf.filmbluray.id/g4aipu0
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/wecanbeheroes.png", We Can Be Heroes (2020) SUB INDO
-http://abf.filmbluray.id/qvnenms
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/10/8a0d1df9-4468-3df4-b57a-c64c941d0850.jpeg" group-title="ANAK", Blue Beetle
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351&sub=t17
-
 
 #EXTINF:-1 group-title="INDO HOROR",Ivanna
 https://www.googleapis.com/drive/v3/files/1eRPJKF_bTNQwFjysfWMocIRrljPE5cOS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -3289,8 +3271,6 @@ https://www.googleapis.com/drive/v3/files/1u6Cxf8zEh7Nah0-Um9FZJxHwQX8jtNaD?alt=
 #EXTINF:-1 group-title="WARKOP DKI",Pencet Sana Pencet Sini
 https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP01 - Si Kocak yang Legendaris
 http://abf.filmbluray.id/feni78i
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP02 - Kembalinya Mr. Bean
@@ -3320,8 +3300,6 @@ http://abf.filmbluray.id/mnlzn2w
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP14 - Tata Rambut Karya Mr. Bean dari London
 http://abf.filmbluray.id/37evvwd
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HH6N3y2/Picsart-22-08-30-16-33-35-999.png" group-title="CARTOON",Garfield
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5f4f&deviceDNT=0&deviceModel=0
 
@@ -3342,7 +3320,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c
 
 #EXTINF:-1 group-title="CARTOON" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" ,Mr.Bean
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 01 SUB INDO
 http://abf.filmbluray.id/eeh5g6e
@@ -3389,8 +3366,6 @@ https://archive.org/download/OscarsOasisEpisode5VideoClipHD/Oscars%20Oasis%20Epi
 https://archive.org/download/OscarsOasisEpisode5VideoClipHD/Oscars%20Oasis%20Episode%207%20Video%20Clip%20HD.mp4?fimbluray.iD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Oscar Oasis" tvg-logo="http://pictures.my.id/images/Oscar-Oasis.png", Oscar Oasis 10 SUB INDO
 https://archive.org/download/OscarsOasisEpisode5VideoClipHD/Oscars%20Oasis%20Episode%208%20Oasic%20Cup%20Video%20Clip%20HD.mp4?fimbluray.iD.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Upin dan Ipin" tvg-logo="https://photos.my.id/images/qV68.png", Upin dan Ipin : Keris Siamang Tunggal (2019) SUB INDO
 http://abf.filmbluray.id/q5lwxqs
@@ -13123,8 +13098,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=02daf139-6148-4f02-b4cd-cd86755f8470
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=02daf139-6148-4f02-b4cd-cd86755f8470&sub=t1
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/11/d02d3c37-5654-3eb5-8b8d-9dd163e6032c.jpeg" group-title="Max VId", Body of Lies
 #KODIPROP:inputstream=inputstream.adaptive
