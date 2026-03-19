@@ -1,11 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/10/8a0d1df9-4468-3df4-b57a-c64c941d0850.jpeg" group-title="ANAK", Blue Beetle
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351&sub=t17
 
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/48e7cc83-830e-3aed-8365-b56114afa101.jpeg" group-title="ANAK", Shazam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/48e7cc83-830e-3aed-8365-b56114afa101.jpeg" group-title="ANAK", Shazam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0eac76ad-e576-4123-b621-2a41771553ae
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0eac76ad-e576-4123-b621-2a41771553ae&sub=t1
 
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/3c23e5eb-7448-326d-95f1-0faa4b6f8fa8.jpeg" group-title="ANAK", Shazam Fury of the Gods
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/3c23e5eb-7448-326d-95f1-0faa4b6f8fa8.jpeg" group-title="ANAK", Shazam Fury of the Gods
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
 
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/cd26f59d-9286-3d0f-9f8e-cdc2dace53ad.jpeg" group-title="ANAK", Wonka Pembuat Coklat 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/cd26f59d-9286-3d0f-9f8e-cdc2dace53ad.jpeg" group-title="ANAK", Wonka Pembuat Coklat 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f&sub=t56
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/tmnt1.png" group-title="ANAK", Teenage Mutant Ninja Turtles (2014) SUB INDO
 http://abf.filmbluray.id/nzjnq3b
@@ -1885,137 +1902,7 @@ http://abf.filmbluray.id/ddur41m
 http://abf.filmbluray.id/lxwscav
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/siege.png" group-title="Transformers kartun", Siege S01E06 Ep.6
 http://abf.filmbluray.id/rczeph2
-#EXTINF:-1 group-title="MOVIE ANIMASI", Crocodile
 
-#EXTINF:-1 group-title="MOVIE ANIMASI",Batman and Superman: Battle of the Super Sons
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Wendell & Wild
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Entergalactic
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Jujutsu Kaisen 0
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Doraemon: Nobita’s Little Star Wars
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",DC League of Super-Pets
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Luck
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",LEGO Star Wars Summer Vacation
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Rise of the Teenage Mutant Ninja Turtles: The Movie
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Green Lantern: Beware My Power
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Paws of Fury: The Legend of Hank
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Minions: The Rise of Gru
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",The Sea Beast
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Lightyear
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Chickenhare and the Hamster of Darkness
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Totsukuni no Shoujo
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Chip ‘n Dale: Rescue Rangers
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Sonic the Hedgehog 2
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",The Bad Guys
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Bubble
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Adam by Eve: A Live in Animation
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Turning Red
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Tom and Jerry: Cowboy Up!
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Catwoman: Hunted
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",The Ice Age Adventures of Buck Wild
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Hotel Transylvania: Transformania
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Beavis and Butt-Head Do the Universe
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Sword Art Online: Progressive Movie – Hoshi Naki Yoru no Aria
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Kiniro Mosaic: Thank You!!
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Kaguya-sama: Love is War Final
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Ghost in the Shell: SAC_2045 Sustainable War
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Fate/kaleid liner Prisma☆Illya Movie: Licht – Namae no Nai Shoujo
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Summer Ghost
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Belle
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Peter Rabbit 2: The Runaway
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Boku no Hero Academia: World Heroes’ Mission
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Fate/Grand Order Final Singularity – Grand Temple of Time: Solomon
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Encanto
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Riverdance: The Animated Adventure
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Sing 2
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Hilda and the Mountain King
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Seal Team
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Princess Principal Crown Handler: Chapter 2
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Eiga Daisuki Pompo-san
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Rumble
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",The Monkey King: Reborn
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Snoopy Presents: For Auld Lang Syne
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Back to the Outback
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",White Snake 2: Green Snake
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Diary of a Wimpy Kid
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Ron Gone Wrong 
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Extinct
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Robin Robin
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Clifford the Big Red Dog
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Ciao Alberto
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Detective Conan Movie 24: The Scarlet Bullet
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha
-
-#EXTINF:-1 group-title="MOVIE ANIMASI",Bright: Samurai Soul
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Laskar_Pelangi_film.jpg" group-title="MOVIE INDONESIA",Laskar Pelangi (2008)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8f/Edensor_%28poster%29.jpg/220px-Edensor_%28poster%29.jpg" group-title="MOVIE INDONESIA",Laskar Pelangi 2 : Edensor (2013)
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yZjxMMngk0wuTMb-qdXZLfqC3jU=/212x315/filters:quality(75)/vidio-web-prod-film/uploads/film/image_portrait/1507/posesif-602fb5.jpg" group-title="MOVIE INDONESIA",Posesif (2017)
-
-#EXTINF:-1 tvg-logo="https://cdn.cgv.id/uploads/movie/compressed/23001500.jpg" group-title="MOVIE INDONESIA",Bismillah Kunikahi Suamimu (2023)
-
-#EXTINF:-1 tvg-logo="https://cdn.cgv.id/uploads/movie/compressed/19037100.jpg" group-title="MOVIE INDONESIA",Rudy Habibie (2016)
-
-#EXTINF:-1 tvg-logo="https://cdn.cgv.id/uploads/movie/pictures/19039400.jpg" group-title="MOVIE INDONESIA",Habibie & Ainun 3 (2019)
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM1OGMyMzktYTMwZS00ZDY2LTg1ZTUtMmZjYzM3Y2JkOTY4XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="MOVIE INDONESIA",Waktu Maghrib (2023)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNhNGY1YjItMDhmOS00ODc0LWI0NTYtNGM3ODdmODM1ZjdhXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg" group-title="MOVIE INDONESIA",Dilan 1991 (2019)
 https://index.wahyudin.workers.dev/0:/Punya%20Wahyudin%20Piyul/Film%20Indonesia/Dilan%201991%20(2019)%20NF%20WEB-DL%20[HD].mp4
