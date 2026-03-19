@@ -1783,19 +1783,6 @@ http://admin.nf21.net/go/files/4292
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MARVEL " tvg-logo="https://image.tmdb.org/t/p/w200//fddtVEUozxvLmehR5yGZjem44pD.jpg", Ant-Man (2015)
 http://vodme.orangbiasa.workers.dev/MARVEL/720p.NB21.Ant.Man.2015.BluRay.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TRANSFORMERS" tvg-logo="https://d1w8cc2yygc27j.cloudfront.net/425654462885378769/-7821064933604408957.jpg", Transformers 2007 MD
-https://www.googleapis.com/drive/v3/files/1oL6LzScOsgwqIhcXatcrfpIuocX87KPY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TRANSFORMERS" tvg-logo="http://www.worstpreviews.com/images/posters/transformers2/transformers24_large.jpg", Transformers-Revenge Of Fallen 2009 MD
-https://www.googleapis.com/drive/v3/files/1h96BH0Bj628AaEtuqb3FbNfVXTeaDDQc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TRANSFORMERS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_.jpg", Transformers-Dark Of The Moon 2011 MD
-https://www.googleapis.com/drive/v3/files/1_fac25_DcANsN_oJUzjNtmtYA-t64wcj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TRANSFORMERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Transformers_Age_of_Extinction_Poster.jpeg", Transformers-Age Of Extinction 2014 MD
-https://www.googleapis.com/drive/v3/files/1y7xNBsFpund9PBqdBIxIgXGk-AQZPcWt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TRANSFORMERS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_UY1200_CR93\,0\,630\,1200_AL_.jpg",Transformers-The Last Knight 2017 MD
-https://www.googleapis.com/drive/v3/files/1JvpV_Uq19yK5asATPUapBfOhZezXoQAf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TRANSFORMERS" tvg-logo="http://www.rosarioespectacular.com/uploadsfotos/bumblebee_ra.jpg", Transformers-BumbbleBee 2019 MD
-https://www.googleapis.com/drive/v3/files/1ra5k21kd3M2SOfXDD8DBkWT_21l-xDms?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers : War for Cybertron Trilogy" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E01 Ep.1
 http://abf.filmbluray.id/gip3hno
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers : War for Cybertron Trilogy" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E02 Ep.2
@@ -1815,8 +1802,6 @@ https://www.googleapis.com/drive/v3/files/1REkPOSU-1fLR1q4_9yS-23aQcUCUPkpw?alt=
 https://www.googleapis.com/drive/v3/files/1Hqh4fOjRAA2b2KQK7HqDNmUceQhyFqYC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPIDER-MAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/Spider-Man_3%2C_International_Poster.jpg", Spiderman 3 2007 MD
 https://www.googleapis.com/drive/v3/files/1s87x5Afctnrvh_vbl_M3taQ70QX--nGh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPIDER-MAN" tvg-logo="https://www.mbahsinopsis.id/wp-content/uploads/2017/06/Spider-ManHomecoming2017-691x1024.jpg", Spiderman Home Coming 2017 MD
-https://www.googleapis.com/drive/v3/files/1kKDp1ws2g9TNJZQWABgalbEixXB-u5bb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD 2022" tvg-logo="https://www.themoviedb.org/t/p/w1280/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg", Doctor Strange in the Multiverse of Madness HD (2022)
@@ -13044,6 +13029,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3cd8bb4c-a585-4661-bde7-e312cb938008
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3cd8bb4c-a585-4661-bde7-e312cb938008&sub=t0
 
+==================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/02/21/d8511edb-7e97-3aa8-b2f5-3919cce9602b.jpeg" group-title="Max", Transformers One
 #KODIPROP:inputstream=inputstream.adaptive
@@ -14565,3 +14551,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5cf1039f-a16b-495b-a28d-f844126b4493
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5cf1039f-a16b-495b-a28d-f844126b4493&sub=t2
+
+
+
