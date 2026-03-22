@@ -185,12 +185,10 @@ https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kGcQYv/SING-2.jpg" group-title="ANAK", Sing 2 (2021)
 https://www.dropbox.com/s/acqfoirnbhzrcy0/sing%202.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SvSbnCh/encanto.jpg" group-title="ANAK", Encanto (2021)
-https://www.dropbox.com/s/26c3k4cacratx9c/encato.mp4?dl=1
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4s4ZtP/rons-gone-wrong.jpg" group-title="ANAK", Rons Gone Wrong (2021)
 https://www.dropbox.com/s/er4siig9jdhcup4/rons%20gone%20wrong.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg" group-title="ANAK", Chip n Dale Rescue Rangers DUB INDO (2022)
-https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/NGEFILM21.Chip.n.Dale.Rescue.Rangers.2022.Dub.Indo.WEB-DL.720p.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKSwmN1/chikenhare.jpg" group-title="ANAK", Chickenhare and the Hamster of Darkness (2022)
 https://www.dropbox.com/s/z12xd3z0ifbebyy/CHICKENHARE%20AND%20THE%20HAMSTER%20OF%20DARKNESS%20%28HOPPER%20ET%20LE%20HAMSTER%20DES%20TANABRES%29%20%282022%29%0A.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5HcQTD/fireheart.jpg" group-title="ANAK", Fireheart (2022)
@@ -210,12 +208,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f84c6558-15a3-4237-8608-95106d91bb4d
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f84c6558-15a3-4237-8608-95106d91bb4d&sub=t43
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/07/26/a658f8d6-068b-3a37-8007-9efa8cbdf200.jpeg" group-title="ANAK", Migration
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c9807a3e-2fab-42dd-ae58-0817825754c2
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c9807a3e-2fab-42dd-ae58-0817825754c2&sub=t6
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/29/34b561f4-b438-31a8-9d38-d4760bb3ee6c.jpeg" group-title="ANAK", Despicable Me 4
 #KODIPROP:inputstream=inputstream.adaptive
@@ -223,11 +215,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=82a2ffe0-3505-4c0a-9a79-67038a5bcc76
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=82a2ffe0-3505-4c0a-9a79-67038a5bcc76&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/18/251f1e00-6ccd-3c5c-a356-f62074458f63.jpeg" group-title="ANAK", Hugo
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=39d969d1-2a0d-4662-b438-6f4bc8d69cf3
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=39d969d1-2a0d-4662-b438-6f4bc8d69cf3&sub=t5
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/tmnt1.png", Teenage Mutant Ninja Turtles (2014) SUB INDO
 http://abf.filmbluray.id/nzjnq3b
