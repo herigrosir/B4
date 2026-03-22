@@ -5,52 +5,13 @@
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351&sub=t17
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/48e7cc83-830e-3aed-8365-b56114afa101.jpeg" group-title="ANAK", Shazam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0eac76ad-e576-4123-b621-2a41771553ae
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0eac76ad-e576-4123-b621-2a41771553ae&sub=t1
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/shazam.png", Shazam! (2019) SUB INDO
-http://abf.filmbluray.id/gsswjrt
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/3c23e5eb-7448-326d-95f1-0faa4b6f8fa8.jpeg" group-title="ANAK", Shazam Fury of the Gods
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/cd26f59d-9286-3d0f-9f8e-cdc2dace53ad.jpeg" group-title="ANAK", Wonka Pembuat Coklat 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f&sub=t56
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/tmnt1.png" group-title="ANAK", Teenage Mutant Ninja Turtles (2014) SUB INDO
-http://abf.filmbluray.id/nzjnq3b
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/tmnt2.png" group-title="ANAK", Teenage Mutant Ninja Turtles : Out of The Shadows (2016) SUB INDO
-http://abf.filmbluray.id/tyfgwgz
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/rufus.png" group-title="ANAK", Adventures of Rufus The Fantastic Pet (2020) SUB INDO
-http://abf.filmbluray.id/yplvxdl
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/08/film-dora-and-the-lost-city-of-gold-2019-lk21.jpg" group-title="ANAK",Dora and The Lost City of Gold
-http://abf.filmbluray.id/moi87f9
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/aladdin.png" group-title="ANAK", Aladdin (2019) SUB INDO
-http://abf.filmbluray.id/5115kfz
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/dolittle.png" group-title="ANAK", Dolittle (2020) SUB INDO
-http://abf.filmbluray.id/d0p7tvj
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/petes.png" group-title="ANAK", Pete's Dragon (2016) SUB INDO
-http://abf.filmbluray.id/znrek2h
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/pino.png" group-title="ANAK", Pinocchio (2019) SUB INDO
-http://abf.filmbluray.id/7xbzfqa
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/robo.png" group-title="ANAK", Robo (2019) SUB INDO
-http://abf.filmbluray.id/og52vhf
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/sonic.png" group-title="ANAK", Sonic the Hedgehog (2020) SUB INDO
-http://abf.filmbluray.id/52w61gv
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/bfg.png" group-title="ANAK", The BFG (2016) SUB INDO
-http://abf.filmbluray.id/g4aipu0
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/wecanbeheroes.png" group-title="ANAK", We Can Be Heroes (2020) SUB INDO
-http://abf.filmbluray.id/qvnenms
+
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2020/03/film-altered-carbon-resleeved-2020-lk21.jpg" group-title="ANAK", Altered Carbon: Resleeved (2020)
 https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2020/03/film-onward-2020-lk21.jpg" group-title="ANAK", Onward (2020)
@@ -233,23 +194,14 @@ https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/NGEFIL
 https://www.dropbox.com/s/z12xd3z0ifbebyy/CHICKENHARE%20AND%20THE%20HAMSTER%20OF%20DARKNESS%20%28HOPPER%20ET%20LE%20HAMSTER%20DES%20TANABRES%29%20%282022%29%0A.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5HcQTD/fireheart.jpg" group-title="ANAK", Fireheart (2022)
 https://www.dropbox.com/s/vkb5eu5h80ie3i6/D21.FUN-Fireheart%20%282022%29-1080p.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hB0JCcf/sonic-the-hedgehog-2-2022.jpg" group-title="ANAK", Sonic The Hedgehog 2 (2022)
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg" group-title="ANAK", Sonic The Hedgehog 2 (2022)
 https://www.dropbox.com/s/izm7s014hqymakj/sonic%202.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/23/dd74c225-829d-3036-9fb6-41c5a573a60b.jpeg" group-title="ANAK", Despicable Me 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=7dfe16cd-96b3-4a1f-81e4-ef4214ec35fb
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=7dfe16cd-96b3-4a1f-81e4-ef4214ec35fb&sub=t4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/8ff9d556-078c-3ff2-9c4c-b0cd12f5d81b.jpeg" group-title="ANAK", Bee Movie
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=5cf1039f-a16b-495b-a28d-f844126b4493
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5cf1039f-a16b-495b-a28d-f844126b4493&sub=t2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/25/b5bb31fd-c41b-33db-bcc5-6f5167074fbf.jpeg" group-title="ANAK", Detective Pikachu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fc18131f-0cf8-4a04-8da1-e4f0d6804c7d
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fc18131f-0cf8-4a04-8da1-e4f0d6804c7d&sub=t19
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/28/5874bd0d-99db-316a-8d5c-91d32ea82ced.jpeg" group-title="ANAK", Tom & Jerry
 #KODIPROP:inputstream=inputstream.adaptive
@@ -276,51 +228,15 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=39d969d1-2a0d-4662-b438-6f4bc8d69cf3
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=39d969d1-2a0d-4662-b438-6f4bc8d69cf3&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/06/911d35f6-4d27-3e82-831e-24a66a34d3d0.jpeg" group-title="ANAK", IF
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=d385a5d9-caa6-437b-935e-77e3a060da21
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d385a5d9-caa6-437b-935e-77e3a060da21&sub=t3
-http://abf.filmbluray.id/h4z3ytj
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/Shrek-1.png", Shrek 1 (2001) SUB INDO
-http://abf.filmbluray.id/9x3fcsb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/Shrek-2.png", Shrek 2 (2004) SUB INDO
-http://abf.filmbluray.id/agzf6p0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/Shrek-3.png", Shrek 3 the Third (2007) SUB INDO
-http://abf.filmbluray.id/xsqs4a3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/Shrek-4.png", Shrek 4 Forever After (2010) SUB INDO
-http://abf.filmbluray.id/q7xgy0s
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/Shrek-5.png", Shrek 5 Musical (2013) SUB INDO
-http://abf.filmbluray.id/v3tj9ra
 
 
 ================= anak ===================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/10/8a0d1df9-4468-3df4-b57a-c64c941d0850.jpeg" group-title="ANAK", Blue Beetle
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351&sub=t17
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/48e7cc83-830e-3aed-8365-b56114afa101.jpeg" group-title="ANAK", Shazam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0eac76ad-e576-4123-b621-2a41771553ae
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0eac76ad-e576-4123-b621-2a41771553ae&sub=t1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/29/3c23e5eb-7448-326d-95f1-0faa4b6f8fa8.jpeg" group-title="ANAK", Shazam Fury of the Gods
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/cd26f59d-9286-3d0f-9f8e-cdc2dace53ad.jpeg" group-title="ANAK", Wonka Pembuat Coklat 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f&sub=t56
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/tmnt1.png", Teenage Mutant Ninja Turtles (2014) SUB INDO
@@ -349,7 +265,7 @@ http://abf.filmbluray.id/7xbzfqa
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/robo.png", Robo (2019) SUB INDO
 http://abf.filmbluray.id/og52vhf
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/sonic.png", Sonic the Hedgehog (2020) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/05/film-sonic-the-hedgehog-2-2022-lk21-d21.jpg", Sonic the Hedgehog (2020) SUB INDO
 http://abf.filmbluray.id/52w61gv
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="http://pictures.my.id/images/bfg.png", The BFG (2016) SUB INDO
@@ -494,8 +410,7 @@ https://lh3.googleusercontent.com/K2Lyu64Zhsc-c3aAL5tKhs_hZUmS7hg34jAb8REJR8kicf
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/08/film-ice-age-collision-course-2016.jpg" group-title="ANAK", Ice Age: Collision Course (2016)
 https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0HLoXP5z-Fk-s1XcAv_Kioct8jw-zN44GS4jGg=m22
 
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/02/film-kung-fu-panda-3-2016.jpg" group-title="ANAK", Kung Fu Panda 3 (2016)
-https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
+
 
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/12/film-moana-2016.jpg" group-title="ANAK", Moana (2016)
 https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
@@ -570,8 +485,7 @@ https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/05/film-cars-2-2011.jpg" group-title="ANAK", Cars 2 (2011)
 https://lh3.googleusercontent.com/ZoZmtDYUPUUzVm9ZkF7HbM2uxF80e5aNOEWOX-ks7hMEmIkmLHMlIz4nbZCsGoVT0EIDej-dW5wLtw_eZA=m22
 
-#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-kung-fu-panda-2-2011.jpg" group-title="ANAK", Kung Fu Panda 2 (2011)
-https://lh3.googleusercontent.com/gSfq9VdV9U8LRF5Cj27gel2507QXEzUhHdljNA9YoLxH4fQMba8rxENXLw8kRSzhifl3QHLonXimSWkSeQ=m22
+
 
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-mars-needs-moms-2011.jpg" group-title="ANAK", Mars Needs Moms (2011)
 https://lh3.googleusercontent.com/b6uTzSPgPRA1yo4ugyinFS0TaKpGHrfKKtLjzFbYQtqtOS1psqw95Xx6hlcvGFsYU5akzv47Prwm1MxIOw=m22
@@ -634,6 +548,18 @@ https://www.dropbox.com/s/vkb5eu5h80ie3i6/D21.FUN-Fireheart%20%282022%29-1080p.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ANAK" tvg-logo="https://i.ibb.co/hB0JCcf/sonic-the-hedgehog-2-2022.jpg", Sonic The Hedgehog 2 (2022)
 https://www.dropbox.com/s/izm7s014hqymakj/sonic%202.mp4?dl=1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-1.png", Shrek 1 (2001) SUB INDO
+http://abf.filmbluray.id/9x3fcsb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-2.png", Shrek 2 (2004) SUB INDO
+http://abf.filmbluray.id/agzf6p0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-3.png", Shrek 3 the Third (2007) SUB INDO
+http://abf.filmbluray.id/xsqs4a3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-4.png", Shrek 4 Forever After (2010) SUB INDO
+http://abf.filmbluray.id/q7xgy0s
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-5.png", Shrek 5 Musical (2013) SUB INDO
+http://abf.filmbluray.id/v3tj9ra
 
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu18.png" group-title="MARVEL ", Thor : Ragnarok (2017) SUB INDO
@@ -1207,5 +1133,8 @@ http://abf.filmbluray.id/pz716ps
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MAX" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-warcraft-2016.jpg", Warcraft : The Beginning (2016) SUB INDO
 http://abf.filmbluray.id/1ku88hr
+
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/helsing.png"group-title="MAX",Van Helsing  SUB INDO
 http://abf.filmbluray.id/a0tcldv
+
+
