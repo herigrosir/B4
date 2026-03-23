@@ -879,7 +879,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e75523fc-2ff8-44f4-925d-b412328371ef
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e75523fc-2ff8-44f4-925d-b412328371ef&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg" group-title=" HBO MAX", Mad Max Fury Road
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg" group-title="MAX", Mad Max Fury Road
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4
