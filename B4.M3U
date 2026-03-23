@@ -247,18 +247,25 @@ https://www.dropbox.com/s/26c3k4cacratx9c/encato.mp4?dl=1
 https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/NGEFILM21.Chip.n.Dale.Rescue.Rangers.2022.Dub.Indo.WEB-DL.720p.mp4
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-1.png", Shrek 1 (2001) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek(anak)" tvg-logo="http://pictures.my.id/images/Shrek(anak)-1.png", Shrek(anak) 1 (2001) SUB INDO
 http://abf.filmbluray.id/9x3fcsb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-2.png", Shrek 2 (2004) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek(anak)" tvg-logo="http://pictures.my.id/images/Shrek(anak)-2.png", Shrek(anak) 2 (2004) SUB INDO
 http://abf.filmbluray.id/agzf6p0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-3.png", Shrek 3 the Third (2007) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek(anak)" tvg-logo="http://pictures.my.id/images/Shrek(anak)-3.png", Shrek(anak) 3 the Third (2007) SUB INDO
 http://abf.filmbluray.id/xsqs4a3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-4.png", Shrek 4 Forever After (2010) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek(anak)" tvg-logo="http://pictures.my.id/images/Shrek(anak)-4.png", Shrek(anak) 4 Forever After (2010) SUB INDO
 http://abf.filmbluray.id/q7xgy0s
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek" tvg-logo="http://pictures.my.id/images/Shrek-5.png", Shrek 5 Musical (2013) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shrek(anak)" tvg-logo="http://pictures.my.id/images/Shrek(anak)-5.png", Shrek(anak) 5 Musical (2013) SUB INDO
 http://abf.filmbluray.id/v3tj9ra
+
+
+#EXTINF:-1 group-title="Jumanji",tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/07/film-jumanji-1995.jpg" Jumanji (1995) 
+http://abf.filmbluray.id/lls6uzj
+#EXTINF:-1 group-title="Jumanji,tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/12/film-jumanji-welcome-jungle-2017.jpg" Jumanji: Welcome to the Jungle (2017) 
+http://abf.filmbluray.id/gtrrco0
+#EXTINF:-1 group-title="Jumanji,tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/12/film-jumanji-the-next-level-2019-lk21.jpg" Jumanji : The Next Level (2019) 
+http://abf.filmbluray.id/39v93kw
+
 
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu18.png" group-title="MARVEL ", Thor : Ragnarok (2017) SUB INDO
@@ -266,12 +273,10 @@ http://abf.filmbluray.id/m8edbqx
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu19.png" group-title="MARVEL ", Black Panther (2018) SUB INDO
 http://abf.filmbluray.id/gauugz2
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fddtVEUozxvLmehR5yGZjem44pD.jpg" group-title="MARVEL ", Ant-Man (2015)
 http://vodme.orangbiasa.workers.dev/MARVEL/720p.NB21.Ant.Man.2015.BluRay.mp4
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu21.png" group-title="MARVEL ", Ant-Man and The Wasp (2018) SUB INDO
 http://abf.filmbluray.id/9mmhxus
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="MARVEL ", Iron Man (2008)
 http://admin.nf21.net/go/files/15375
@@ -636,16 +641,18 @@ http://admin.nf21.net/go/files/13227
 
 
 http://abf.filmbluray.id/29312ls
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kensin1.png" group-title="Rurouni Kenshin", Rurouni Kenshin : Origins (2012) SUB INDO
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kensin1.png" group-title="Samurai X", Samurai X : Origins (2012) SUB INDO
 http://abf.filmbluray.id/ca7iypb
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kensin2.png" group-title="Rurouni Kenshin", Rurouni Kenshin : Kyoto Inferno (2014) SUB INDO
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kensin2.png" group-title="Samurai X", Samurai X : Kyoto Inferno (2014) SUB INDO
 http://abf.filmbluray.id/cv6esjf
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kensin3.png" group-title="Rurouni Kenshin", Rurouni Kenshin : The Legend Ends (2014) SUB INDO
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/kensin3.png" group-title="Samurai X", Samurai X : The Legend Ends (2014) SUB INDO
 http://abf.filmbluray.id/7jc52ye
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/enj1LR98rl4L8L2r0RKyy1C7OSm.jpg" group-title="Rurouni Kenshin", Rurouni Kenshin : Final Chapter Part 1 (2021) SUB INDO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/enj1LR98rl4L8L2r0RKyy1C7OSm.jpg" group-title="Samurai X", Samurai X : Final Chapter Part 1 (2021) SUB INDO
 https://www.googleapis.com/drive/v3/files/1j-OKjVXC_gNx75JSpBocZmM58dYEOoeR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rODS466qSdrwMlGdbUwPENhDN2c.jpg" group-title="Rurouni Kenshin", Rurouni Kenshin : Final Chapter Part 2 (2022) SUB INDO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rODS466qSdrwMlGdbUwPENhDN2c.jpg" group-title="Samurai X", Samurai X : Final Chapter Part 2 (2022) SUB INDO
 https://www.googleapis.com/drive/v3/files/1O7V074dh9p1xpF0ZA8UHhmbiJnL1Wtei?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/rush1.png" group-title="Rush Hour", Rush Hour 1 (1998) SUB INDO
 http://abf.filmbluray.id/zdt82r1
@@ -836,4 +843,74 @@ http://abf.filmbluray.id/1ku88hr
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/helsing.png"group-title="MAX",Van Helsing  SUB INDO
 http://abf.filmbluray.id/a0tcldv
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/11/fcdfecee-00ee-3c6d-807a-14fa91fb8051.jpeg" group-title="MAX", Mercy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=533834e5-2706-41cf-9f35-c251ca519ba5
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=533834e5-2706-41cf-9f35-c251ca519ba5&sub=t1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/14/6a62b914-35f2-3750-90aa-258f578f4243.jpeg" group-title=" HBO MAX", 02-Fall Guy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b997fe1d-3218-44cd-bdbb-2661f279afde
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b997fe1d-3218-44cd-bdbb-2661f279afde&sub=t6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title=" MAX", The Legend of Tarzan
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=87360973-c358-4b4f-862f-afd03ad38f17
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/26/bf02199d-d5a8-3af9-b2ef-9678e7506d25.jpeg" group-title="MAX", Mortal Kombat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9&sub=t25
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/06/25b3fac7-b0ed-3f59-aa26-4de81d6e64ce.jpeg" group-title="MAX", Hellboy: The Crooked Man
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=107f601e-735b-427a-b009-e9f09d0d6068
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=107f601e-735b-427a-b009-e9f09d0d6068&sub=t5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/08/02/7f4f2541-f82d-3c1c-8c35-649269dd6a78.jpeg" group-title="MAX", A Mad Max Saga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e75523fc-2ff8-44f4-925d-b412328371ef
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e75523fc-2ff8-44f4-925d-b412328371ef&sub=t5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/06/729f786b-90c9-374c-b8cb-f711ba009a4c.jpeg" group-title=" HBO MAX", Mad Max Fury Road
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4&sub=t5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/09/13/ea263e95-5ea8-3d34-8d4c-e0586b4e813e.jpeg" group-title="MAX",Kimi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=89f53fae-0da1-4f9c-9365-8135b3680c8c
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=89f53fae-0da1-4f9c-9365-8135b3680c8c&sub=t40
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/bf9d13cd-858f-341f-b4c1-e569e8ddcafa.jpeg" group-title="MAX", Pan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c1be7fec-9fdb-4f1b-82f6-97da86830046
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c1be7fec-9fdb-4f1b-82f6-97da86830046&sub=t13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/11/22/82108b80-3aea-3ac0-af25-e01b68f22122.jpeg" group-title="MAX", Blade II
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/Q9Q7y/3Wzf_acNoeRMjHZJQ.jpeg" group-title="MAX", Final Destination Bloodlines 2025 (melawan malaikat maut) (Horror)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=18b140b1-220c-4a45-b784-ffffa0293ff8
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b1-220c-4a45-b784-ffffa0293ff8&sub=t2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/3WUQz/mqYnUd5s8cjZY1p7g.jpeg" group-title="MAX", Oblivion
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bcecca31-e728-4439-86db-94a478409d97
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bcecca31-e728-4439-86db-94a478409d97&sub=t2
