@@ -817,7 +817,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b997fe1d-3218-44cd-bdbb-2661f279afde
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b997fe1d-3218-44cd-bdbb-2661f279afde&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title=" MAX", The Legend of Tarzan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title="New Update", The Legend of Tarzan
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=87360973-c358-4b4f-862f-afd03ad38f17
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2
