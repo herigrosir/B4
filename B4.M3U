@@ -600,7 +600,8 @@ http://abf.filmbluray.id/exh9v5x
 http://abf.filmbluray.id/fa3r8d7
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/transporter4.png" group-title="Jason Statham", The Transporter : Refueled (2015) SUB INDO
 http://abf.filmbluray.id/epp6jrr
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lUER1TEMtfk0ZCZGyoiL37pQRNw.jpg" group-title="Jason Statham", Crank 2006
+https://www.googleapis.com/drive/v3/files/1xZ6bN1Ga1RUNed4xwNNoOnNyoIQj8Nlc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hr11wG8wwVZCJtRZvkaveyFUxiM.jpg" group-title="Jason Statham", Crank High Voltage 2009
 https://www.googleapis.com/drive/v3/files/1TjRK9QXAnudJFowBl30xVmFmeoH7u32o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0oBnEgb1H2DvHN9Hykgn0Q6n52cVhIR5yg&s" group-title="Jason Statham", Homefront 2013
@@ -821,6 +822,20 @@ http://abf.filmbluray.id/dqqmub8
 http://abf.filmbluray.id/pz716ps
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-ace-ventura-pet-detective-1994.jpg", Ace Ventura 1
+https://bit.ly/4copEK5
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/05/film-ace-ventura-when-nature-calls-1995.jpg", Ace Ventura 2
+https://bit.ly/4c3Gqgm
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-the-cable-guy-1996.jpg", The Cable Guy
+https://bit.ly/4vbCov9
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-bruce-almighty-2003.jpg", Bruce Almighty
+https://bit.ly/3PQ8Q6b
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-warcraft-2016.jpg", Warcraft : The Beginning (2016) SUB INDO
 http://abf.filmbluray.id/1ku88hr
 
@@ -915,6 +930,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
 https://bit.ly/41IRGtM
