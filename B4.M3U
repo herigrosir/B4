@@ -1,79 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-warcraft-2016.jpg", Warcraft : The Beginning (2016) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-warcraft-2016.jpg", Warcraft : The Beginning (2016) SUB INDO
 http://abf.filmbluray.id/1ku88hr
 
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/08/film-van-helsing-2004-2-lk21.jpg"group-title="New Update",Van Helsing  SUB INDO
 http://abf.filmbluray.id/a0tcldv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg" group-title="New Update", Mercy
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg" group-title="New Update", Mercy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=533834e5-2706-41cf-9f35-c251ca519ba5
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=533834e5-2706-41cf-9f35-c251ca519ba5&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg" group-title="New Update", Fall Guy
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg" group-title="New Update", Fall Guy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b997fe1d-3218-44cd-bdbb-2661f279afde
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b997fe1d-3218-44cd-bdbb-2661f279afde&sub=t6
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title="New Update", The Legend of Tarzan
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/NGpMD/TH2F0AoNdq6X1tbGA.jpeg" group-title="New Update", The Legend of Tarzan
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=87360973-c358-4b4f-862f-afd03ad38f17
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2021/04/film-mortal-kombat-2021-lk21.jpg" group-title="New Update", Mortal Kombat
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2021/04/film-mortal-kombat-2021-lk21.jpg" group-title="New Update", Mortal Kombat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9&sub=t25
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-hellboy-the-crooked-man-2024-lk21-d21.jpg" group-title="New Update", Hellboy: The Crooked Man
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/10/film-hellboy-the-crooked-man-2024-lk21-d21.jpg" group-title="New Update", Hellboy: The Crooked Man
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=107f601e-735b-427a-b009-e9f09d0d6068
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=107f601e-735b-427a-b009-e9f09d0d6068&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/06/film-furiosa-a-mad-max-saga-2024-lk21-d21.jpg" group-title="New Update", A Mad Max Saga
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/06/film-furiosa-a-mad-max-saga-2024-lk21-d21.jpg" group-title="New Update", A Mad Max Saga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=e75523fc-2ff8-44f4-925d-b412328371ef
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e75523fc-2ff8-44f4-925d-b412328371ef&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg" group-title="New Update", Mad Max Fury Road
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg" group-title="New Update", Mad Max Fury Road
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4&sub=t5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/02/film-kimi-2022-lk21-d21.jpg" group-title="New Update",Kimi
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2022/02/film-kimi-2022-lk21-d21.jpg" group-title="New Update",Kimi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=89f53fae-0da1-4f9c-9365-8135b3680c8c
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=89f53fae-0da1-4f9c-9365-8135b3680c8c&sub=t40
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/bf9d13cd-858f-341f-b4c1-e569e8ddcafa.jpeg" group-title="New Update", Pan
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/17/bf9d13cd-858f-341f-b4c1-e569e8ddcafa.jpeg" group-title="New Update", Pan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c1be7fec-9fdb-4f1b-82f6-97da86830046
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c1be7fec-9fdb-4f1b-82f6-97da86830046&sub=t13
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-blade-ii-2002.jpg" group-title="New Update", Blade II
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-blade-ii-2002.jpg" group-title="New Update", Blade II
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="New Update", Final Destination Bloodlines 2025 (melawan malaikat maut) (Horror)
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="New Update", Final Destination Bloodlines 2025 (melawan malaikat maut) (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=18b140b1-220c-4a45-b784-ffffa0293ff8
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b1-220c-4a45-b784-ffffa0293ff8&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/3WUQz/mqYnUd5s8cjZY1p7g.jpeg" group-title="New Update", Oblivion
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/3WUQz/mqYnUd5s8cjZY1p7g.jpeg" group-title="New Update", Oblivion
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bcecca31-e728-4439-86db-94a478409d97
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bcecca31-e728-4439-86db-94a478409d97&sub=t2
@@ -83,26 +83,26 @@ http://abf.filmbluray.id/hp5c0jd
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2021/10/film-venom-let-there-be-carnage-2021-lk21.jpg" group-title="New Update", Venom 2
 https://www.dropbox.com/s/mv1cbopr0szux5d/venom%202.mp4?dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/04/film-shazam2019-lk21.jpg" group-title="New Update", Shazam 1
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/04/film-shazam2019-lk21.jpg" group-title="New Update", Shazam 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=0eac76ad-e576-4123-b621-2a41771553ae
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0eac76ad-e576-4123-b621-2a41771553ae&sub=t1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg" group-title="New Update", Shazam 2
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg" group-title="New Update", Shazam 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b4f32bde-d67d-4399-a495-28526b5bb441
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
 https://bit.ly/41IRGtM
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg", Mercy 2026
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg", Mercy 2026
 https://bit.ly/4c7IpQY
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/12/film-avatar-fire-ash-2025-lk21.jpg", Avatar NEW: Fire and Ash (2025)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/12/film-avatar-fire-ash-2025-lk21.jpg", Avatar NEW: Fire and Ash (2025)
 https://bit.ly/4t0xU9m
 
 ======================================================================
@@ -115,25 +115,25 @@ https://bit.ly/41IRGtM
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351&sub=t17
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/cd26f59d-9286-3d0f-9f8e-cdc2dace53ad.jpeg" group-title="ANAK", Wonka Pembuat Coklat 
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/03/28/cd26f59d-9286-3d0f-9f8e-cdc2dace53ad.jpeg" group-title="ANAK", Wonka Pembuat Coklat 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c49e1750-9a5b-4af7-a84f-fcffa7d92d6f&sub=t56
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/23/dd74c225-829d-3036-9fb6-41c5a573a60b.jpeg" group-title="ANAK", Despicable Me 2
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/23/dd74c225-829d-3036-9fb6-41c5a573a60b.jpeg" group-title="ANAK", Despicable Me 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=7dfe16cd-96b3-4a1f-81e4-ef4214ec35fb
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=7dfe16cd-96b3-4a1f-81e4-ef4214ec35fb&sub=t4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/29/34b561f4-b438-31a8-9d38-d4760bb3ee6c.jpeg" group-title="ANAK", Despicable Me 4
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2025/01/29/34b561f4-b438-31a8-9d38-d4760bb3ee6c.jpeg" group-title="ANAK", Despicable Me 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=82a2ffe0-3505-4c0a-9a79-67038a5bcc76
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=82a2ffe0-3505-4c0a-9a79-67038a5bcc76&sub=t2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/28/5874bd0d-99db-316a-8d5c-91d32ea82ced.jpeg" group-title="ANAK", Tom & Jerry
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/02/28/5874bd0d-99db-316a-8d5c-91d32ea82ced.jpeg" group-title="ANAK", Tom & Jerry
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=f84c6558-15a3-4237-8608-95106d91bb4d
@@ -504,225 +504,225 @@ https://bit.ly/4dv1lLF
 https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/[720p]Eternals.2021.WEB-DL [MELONGMOVIE].mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re1.png", Resident Evil (2002) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re1.png", Resident Evil (2002) SUB INDO
 http://abf.filmbluray.id/cfxnjkt
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re2.png", Apocalypse (2004) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re2.png", Apocalypse (2004) SUB INDO
 http://abf.filmbluray.id/m699adr
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re3.png", Extinction (2007) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re3.png", Extinction (2007) SUB INDO
 http://abf.filmbluray.id/yx6d7zh
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re4.png", AfterLife (2010) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re4.png", AfterLife (2010) SUB INDO
 http://abf.filmbluray.id/iawm149
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re5.png", Retribution (2012) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re5.png", Retribution (2012) SUB INDO
 http://abf.filmbluray.id/q63avr6
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re6.png", The Final Chapter (2016) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Resident Evil" tvg-logo="http://pictures.my.id/images/re6.png", The Final Chapter (2016) SUB INDO
 
 
 http://abf.filmbluray.id/t2s5191
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider1.png", Spider-Man 1 (2002) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider1.png", Spider-Man 1 (2002) SUB INDO
 http://abf.filmbluray.id/d8jy72p
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider2.png", Spider-Man 2 (2004) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider2.png", Spider-Man 2 (2004) SUB INDO
 http://abf.filmbluray.id/knabest
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider3.png", Spider-Man 3 (2007) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider3.png", Spider-Man 3 (2007) SUB INDO
 http://abf.filmbluray.id/pwgr8v6
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider4.png", The Amazing Spider-Man (2012) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider4.png", The Amazing Spider-Man (2012) SUB INDO
 http://abf.filmbluray.id/ocml7gs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider5.png", The Amazing Spider Man 2 (2014) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider5.png", The Amazing Spider Man 2 (2014) SUB INDO
 http://abf.filmbluray.id/syny6xm
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator1.png", The Terminator (1984) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator1.png", The Terminator (1984) SUB INDO
 http://abf.filmbluray.id/gdf8nq1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator2.png", Judgment Day (1991) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator2.png", Judgment Day (1991) SUB INDO
 http://abf.filmbluray.id/0k0vn82
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator3.png", Rise of The Machines (2003) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator3.png", Rise of The Machines (2003) SUB INDO
 http://abf.filmbluray.id/tcmej34
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator4.png", Salvation (2009) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator4.png", Salvation (2009) SUB INDO
 http://abf.filmbluray.id/dn6lhr2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator5.png", Genisys (2015) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator5.png", Genisys (2015) SUB INDO
 http://abf.filmbluray.id/hendldi
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator6.png", Dark Fate (2019) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator6.png", Dark Fate (2019) SUB INDO
 
 
 http://abf.filmbluray.id/td6xujc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast1.png", The Fast and The Furious (2001) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast1.png", The Fast and The Furious (2001) SUB INDO
 http://abf.filmbluray.id/rvelkny
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast2.png", Turbo Charged Prelude (2003) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast2.png", Turbo Charged Prelude (2003) SUB INDO
 http://abf.filmbluray.id/zilha13
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast3.png", 2 Fast 2 Furious (2003) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast3.png", 2 Fast 2 Furious (2003) SUB INDO
 http://abf.filmbluray.id/uj6ztuz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast4.png", Los Bandoleros (2009) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast4.png", Los Bandoleros (2009) SUB INDO
 http://abf.filmbluray.id/qgm4n0r
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast5.png", Fast & Furious 4 (2009) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast5.png", Fast & Furious 4 (2009) SUB INDO
 http://abf.filmbluray.id/v4ej33t
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast6.png", Fast Furious Five (2011) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast6.png", Fast Furious Five (2011) SUB INDO
 http://abf.filmbluray.id/h7zngop
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast7.png", Fast & Furious 6 (2013) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast7.png", Fast & Furious 6 (2013) SUB INDO
 http://abf.filmbluray.id/8vjt6ba
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast8.png", The Fast and the Furious: Tokyo Drift (2006) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast8.png", The Fast and the Furious: Tokyo Drift (2006) SUB INDO
 http://abf.filmbluray.id/v8i1pw9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast9.png", Furious 7 (2015) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast9.png", Furious 7 (2015) SUB INDO
 http://abf.filmbluray.id/1gvz8de
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast10.png", The Fate of the Furious (2017) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast10.png", The Fate of the Furious (2017) SUB INDO
 http://abf.filmbluray.id/bzyv12m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast11.png", Fast & Furious Presents: Hobbs & Shaw (2019) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast11.png", Fast & Furious Presents: Hobbs & Shaw (2019) SUB INDO
 http://abf.filmbluray.id/vurxfca
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit1.png", The Hobbit : An Unexpected Journey (2012)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit1.png", The Hobbit : An Unexpected Journey (2012)
 http://abf.filmbluray.id/eo1gxi3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit2.png", The Hobbit : The Desolation of Smaug (2013)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit2.png", The Hobbit : The Desolation of Smaug (2013)
 http://abf.filmbluray.id/n22qiig
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit3.png", The Hobbit : The Battle of The Five Armies (2014)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit3.png", The Hobbit : The Battle of The Five Armies (2014)
 http://abf.filmbluray.id/n2c0l3q
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr1.png", The Lord of the Rings : The Fellowship of the Ring (2001)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr1.png", The Lord of the Rings : The Fellowship of the Ring (2001)
 http://abf.filmbluray.id/m8j2bin
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr2.png", The Lord of the Rings : The Two Towers (2002)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr2.png", The Lord of the Rings : The Two Towers (2002)
 http://abf.filmbluray.id/b67096b
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr3.png", The Lord of the Rings : The Return of the King (2003)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr3.png", The Lord of the Rings : The Return of the King (2003)
 http://abf.filmbluray.id/x2dvwh0
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x1.png", First Class (2011) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x1.png", First Class (2011) SUB INDO
 http://abf.filmbluray.id/7rmsohz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x2.png", Days Of Future Past (2014) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x2.png", Days Of Future Past (2014) SUB INDO
 http://abf.filmbluray.id/si8qn6f
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x3.png", Origins : Wolverine (2009) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x3.png", Origins : Wolverine (2009) SUB INDO
 http://abf.filmbluray.id/vx876ik
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x4.png", X-Men (2000) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x4.png", X-Men (2000) SUB INDO
 http://abf.filmbluray.id/50nk3d9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x5.png", United (2003) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x5.png", United (2003) SUB INDO
 http://abf.filmbluray.id/l6s52j5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x6.png", The Last Stand (2006) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x6.png", The Last Stand (2006) SUB INDO
 http://abf.filmbluray.id/flseggq
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x7.png", The Wolverine (2013) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x7.png", The Wolverine (2013) SUB INDO
 http://abf.filmbluray.id/2aophnl
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x8.png", Deadpool 1 (2016) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x8.png", Deadpool 1 (2016) SUB INDO
 http://abf.filmbluray.id/ien08zj
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x9.png", Deadpool 2 (2018) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x9.png", Deadpool 2 (2018) SUB INDO
 http://abf.filmbluray.id/axho5vz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x10.png", Logan (2017) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x10.png", Logan (2017) SUB INDO
 http://abf.filmbluray.id/ob6xz80
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x11.png", Apocalypse (2016) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/x11.png", Apocalypse (2016) SUB INDO
 http://abf.filmbluray.id/n377lc2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/X-Men-Dark-Phoenix.png", Dark Phoenix (2019) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/X-Men-Dark-Phoenix.png", Dark Phoenix (2019) SUB INDO
 http://abf.filmbluray.id/n30psdu
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="X-Men" tvg-logo="http://pictures.my.id/images/newmutant.png", The New Mutants (2020) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="X-Men" tvg-logo="http://pictures.my.id/images/newmutant.png", The New Mutants (2020) SUB INDO
 http://abf.filmbluray.id/93jqnt9
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/wonder.png", Wonder Woman (2017) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/wonder.png", Wonder Woman (2017) SUB INDO
 http://abf.filmbluray.id/vg7ppvs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/mansteel.png", Man of Steel (2013) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/mansteel.png", Man of Steel (2013) SUB INDO
 http://abf.filmbluray.id/31as2d2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/batsuper.png", Batman vs Superman : Dawn of Justice (2016) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/batsuper.png", Batman vs Superman : Dawn of Justice (2016) SUB INDO
 http://abf.filmbluray.id/83gr51v
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/suicide.png", Suicide Squad (2016) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/suicide.png", Suicide Squad (2016) SUB INDO
 http://abf.filmbluray.id/efgu7m4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/league.png", Justice League (2017) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/league.png", Justice League (2017) SUB INDO
 http://abf.filmbluray.id/f3ldqgf
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/aquaman.png", Aquaman (2018) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/aquaman.png", Aquaman (2018) SUB INDO
 http://abf.filmbluray.id/0es5mcu
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/birdprey.png", Birds Of Prey (2020) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/birdprey.png", Birds Of Prey (2020) SUB INDO
 
 
 http://abf.filmbluray.id/ggd84o3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-1.png", Final Destination 1 (2000) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-1.png", Final Destination 1 (2000) SUB INDO
 http://abf.filmbluray.id/u4fz9tq
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-2.png", Final Destination 2 (2003) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-2.png", Final Destination 2 (2003) SUB INDO
 http://abf.filmbluray.id/a5h1btf
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-3.png", Final Destination 3 (2006) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-3.png", Final Destination 3 (2006) SUB INDO
 http://abf.filmbluray.id/mcfft6m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-4.png", Final Destination 4 (2009) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-4.png", Final Destination 4 (2009) SUB INDO
 http://abf.filmbluray.id/4lk4ia7
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-5.png", Final Destination 5 (2011) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-5.png", Final Destination 5 (2011) SUB INDO
 http://abf.filmbluray.id/h0lbesp
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/beast1.png", Fantastic Beasts and Where to Find Them (2016) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/beast1.png", Fantastic Beasts and Where to Find Them (2016) SUB INDO
 http://abf.filmbluray.id/iv7rl81
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/beast2.png", Fantastic Beasts : The Crimes of Grindelwald (2018) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/beast2.png", Fantastic Beasts : The Crimes of Grindelwald (2018) SUB INDO
 http://abf.filmbluray.id/4d86m6g
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry1.png", Harry Potter And The Sorcerers Stone (2001)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry1.png", Harry Potter And The Sorcerers Stone (2001)
 http://abf.filmbluray.id/n5gtlqg
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry2.png", Harry Potter And The Chamber Of Secrets (2002)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry2.png", Harry Potter And The Chamber Of Secrets (2002)
 http://abf.filmbluray.id/4bnd6kb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry3.png", Harry Potter And The Prisoner Of Azkaban (2004)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry3.png", Harry Potter And The Prisoner Of Azkaban (2004)
 http://abf.filmbluray.id/hhydebl
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry4.png", Harry Potter And The Goblet Of Fire (2005)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry4.png", Harry Potter And The Goblet Of Fire (2005)
 http://abf.filmbluray.id/u3ggpb8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry5.png", Harry Potter And The Order Of The Phoenix (2007)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry5.png", Harry Potter And The Order Of The Phoenix (2007)
 http://abf.filmbluray.id/vwevth9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry6.png", Harry Potter And The Half-Blood Prince (2009)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry6.png", Harry Potter And The Half-Blood Prince (2009)
 http://abf.filmbluray.id/fp0mtmn
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry7.png", Harry Potter And The Deathly Hallows Part 1 (2010)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry7.png", Harry Potter And The Deathly Hallows Part 1 (2010)
 http://abf.filmbluray.id/080i6nx
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry8.png", Harry Potter And The Deathly Hallows Part 2 (2011)
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Harry Potter" tvg-logo="http://pictures.my.id/images/harry8.png", Harry Potter And The Deathly Hallows Part 2 (2011)
 http://abf.filmbluray.id/ea2zmgi
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-2007.jpg", Transformers 1
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-2007.jpg", Transformers 1
 https://bit.ly/3PUvVoc
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-revenge-of-the-fallen-2009.jpg", Transformers 2
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-revenge-of-the-fallen-2009.jpg", Transformers 2
 https://bit.ly/4sS9nTD
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-dark-of-the-moon-2011.jpg", Transformers 3
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-dark-of-the-moon-2011.jpg", Transformers 3
 https://bit.ly/3NK1RLt
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-age-of-extinction-2014.jpg", Transformers 4
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-age-of-extinction-2014.jpg", Transformers 4
 https://bit.ly/4vcETxh
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/07/film-transformers-the-last-knight-2017.jpg", Transformers 5
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2017/07/film-transformers-the-last-knight-2017.jpg", Transformers 5
 https://bit.ly/4sUct9S
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2018/12/film-bumblebee-2018-lk21.jpg", Transformers 6 Bumblebee
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2018/12/film-bumblebee-2018-lk21.jpg", Transformers 6 Bumblebee
 https://bit.ly/4cqRtS8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-2007.jpg", Transformers 7
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/01/film-transformers-2007.jpg", Transformers 7
 https://bit.ly/4cqI0Kx
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E01 Ep.1
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E01 Ep.1
 http://abf.filmbluray.id/gip3hno
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E02 Ep.2
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E02 Ep.2
 http://abf.filmbluray.id/zjqcgiu
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E03 Ep.3
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E03 Ep.3
 http://abf.filmbluray.id/2wrn1kh
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E04 Ep.4
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E04 Ep.4
 http://abf.filmbluray.id/ddur41m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E05 Ep.5
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E05 Ep.5
 http://abf.filmbluray.id/lxwscav
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E06 Ep.6
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Transformers Kartun" tvg-logo="http://pictures.my.id/images/siege.png", Siege S01E06 Ep.6
 http://abf.filmbluray.id/rczeph2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP01 - Si Kocak yang Legendaris
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP01 - Si Kocak yang Legendaris
 http://abf.filmbluray.id/feni78i
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP02 - Kembalinya Mr. Bean
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP02 - Kembalinya Mr. Bean
 http://abf.filmbluray.id/k7ms80u
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP03 - Kutukan Mr. Bean
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP03 - Kutukan Mr. Bean
 http://abf.filmbluray.id/fh4b2e1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP04 - Mr. Bean Pergi ke Kota
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP04 - Mr. Bean Pergi ke Kota
 http://abf.filmbluray.id/itu8ko5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP05 - Masalah dengan Mr. Bean
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP05 - Masalah dengan Mr. Bean
 http://abf.filmbluray.id/metqyxz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP06 - Mr. Bean Berkelana Lagi
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP06 - Mr. Bean Berkelana Lagi
 http://abf.filmbluray.id/7z6zpxb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", "EP07 - Selamat Natal\, Mr. Bean"
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", "EP07 - Selamat Natal\, Mr. Bean"
 http://abf.filmbluray.id/xn44n49
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP08 - Mr. Bean di Kamar 426
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP08 - Mr. Bean di Kamar 426
 http://abf.filmbluray.id/q0es4ui
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP09 - Mr. Bean Membuatnya Sendiri
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP09 - Mr. Bean Membuatnya Sendiri
 http://abf.filmbluray.id/jlwrs3t
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", "EP10 - Hati-hati dengan Bayinya\, Mr. Bean"
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", "EP10 - Hati-hati dengan Bayinya\, Mr. Bean"
 http://abf.filmbluray.id/5flumaz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP11 - Mr. Bean Kembali ke Sekolah
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP11 - Mr. Bean Kembali ke Sekolah
 http://abf.filmbluray.id/fqjirag
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", "EP12 - Pukul Bolanya\, Mr. Bean"
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", "EP12 - Pukul Bolanya\, Mr. Bean"
 http://abf.filmbluray.id/mxsg3ux
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", "EP13 - Selamat Malam\, Mr. Bean"
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", "EP13 - Selamat Malam\, Mr. Bean"
 http://abf.filmbluray.id/mnlzn2w
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP14 - Tata Rambut Karya Mr. Bean dari London
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Mr. Bean Serial" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-mr-beans-holiday-2007.jpg", EP14 - Tata Rambut Karya Mr. Bean dari London
 http://abf.filmbluray.id/37evvwd
 
 
@@ -790,7 +790,7 @@ http://abf.filmbluray.id/vbwvvnm
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/park5.png" group-title="Jurassic Park", Jurassic World: Fallen Kingdom (2018) SUB INDO
 http://abf.filmbluray.id/vu7sn0f
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/qvpLC/NgY36zYQxW2LOeEvQ.jpeg" group-title="Jurassic Park", Jurassic Rebirth
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/qvpLC/NgY36zYQxW2LOeEvQ.jpeg" group-title="Jurassic Park", Jurassic Rebirth
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=2f153371-fbcf-43f9-b4d1-2621049230e6
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2f153371-fbcf-43f9-b4d1-2621049230e6&sub=t2
@@ -890,7 +890,7 @@ http://abf.filmbluray.id/qer4lf1
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/24/96ad829a-0fed-3acc-8429-2533a244268f.jpeg" group-title="Mr. Bean Serial", Mr. Bean is Holiday
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/10/24/96ad829a-0fed-3acc-8429-2533a244268f.jpeg" group-title="Mr. Bean Serial", Mr. Bean is Holiday
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b35c844a-77f4-4373-8b2a-03e3d2a9e3bb
@@ -941,23 +941,23 @@ http://abf.filmbluray.id/pppi58j
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/back3.png" group-title="Mobil Ajaib", Back to The Future Part III (1990) SUB INDO
 http://abf.filmbluray.id/fa7j9a2
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Men in Black" tvg-logo="http://pictures.my.id/images/mib1.png", Men in Black 1 (1997) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Men in Black" tvg-logo="http://pictures.my.id/images/mib1.png", Men in Black 1 (1997) SUB INDO
 http://abf.filmbluray.id/znkwefj
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Men in Black" tvg-logo="http://pictures.my.id/images/mib2.png", Men in Black 2 (2002) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Men in Black" tvg-logo="http://pictures.my.id/images/mib2.png", Men in Black 2 (2002) SUB INDO
 http://abf.filmbluray.id/3zp1caf
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Men in Black" tvg-logo="http://pictures.my.id/images/mib3.png", Men in Black 3 (2012) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Men in Black" tvg-logo="http://pictures.my.id/images/mib3.png", Men in Black 3 (2012) SUB INDO
 http://abf.filmbluray.id/dqqmub8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Men in Black" tvg-logo="http://pictures.my.id/images/mib4.png", Men in Black International (2019) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="Men in Black" tvg-logo="http://pictures.my.id/images/mib4.png", Men in Black International (2019) SUB INDO
 http://abf.filmbluray.id/pz716ps
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-ace-ventura-pet-detective-1994.jpg", Ace Ventura 1
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-ace-ventura-pet-detective-1994.jpg", Ace Ventura 1
 https://bit.ly/4copEK5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/05/film-ace-ventura-when-nature-calls-1995.jpg", Ace Ventura 2
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/05/film-ace-ventura-when-nature-calls-1995.jpg", Ace Ventura 2
 https://bit.ly/4c3Gqgm
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/05/film-dumb-and-dumber-to-2014.jpg", Dumb and Dumber
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/05/film-dumb-and-dumber-to-2014.jpg", Dumb and Dumber
 https://bit.ly/4c8ExPA
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-bruce-almighty-2003.jpg", Bruce Almighty
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="jim carrey" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-bruce-almighty-2003.jpg", Bruce Almighty
 https://bit.ly/3PQ8Q6b
 
 
