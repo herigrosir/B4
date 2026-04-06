@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-hoppers-2026-lk21.jpg" group-title="New Update", Hoppers (2026)
+https://bit.ly/4tmMgR4
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/12/film-zootopia-2-2025-lk21.jpg" group-title="New Update", Zootopia 2 (2025)
+https://bit.ly/4scsKFN
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/11/film-predator-badlands-2025-lk21.jpg" group-title="New Update", Badlands (2025)
+https://bit.ly/41k5YAX
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-mission-impossible-the-final-reckoning-2025-lk21-d21.jpg" group-title="New Update", Mission: Impossible - The Final Reckoning (2025)
+https://bit.ly/3OjeeOG
+
 #EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/06/film-warcraft-2016.jpg", Warcraft : The Beginning (2016) 
 http://abf.filmbluray.id/1ku88hr
 
@@ -800,6 +812,7 @@ http://abf.filmbluray.id/n3xh1fu
 http://abf.filmbluray.id/0nbbfrm
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/mi6.png" group-title="Mission Impossible", Mission : Impossible - Fallout (2018) 
 http://abf.filmbluray.id/fgp2klb
+
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/hunger1.png" group-title="HUNGER GAME", The Hunger Games (2012) 
 http://abf.filmbluray.id/6a20xy5
