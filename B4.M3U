@@ -1,10 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
+https://bit.ly/41IRGtM
 
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-hoppers-2026-lk21.jpg" group-title="New Update", Hoppers (2026)
 https://bit.ly/4tmMgR4
 
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/12/film-zootopia-2-2025-lk21.jpg" group-title="New Update", Zootopia 2 (2025)
 https://bit.ly/4scsKFN
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51b6mLCvBuL._AC_UF894,1000_QL80_.jpg" group-title="New Update", Garfield
+https://bit.ly/3OaU35k
 
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/11/film-predator-badlands-2025-lk21.jpg" group-title="New Update", Badlands (2025)
 https://bit.ly/41k5YAX
@@ -18,14 +23,9 @@ http://abf.filmbluray.id/1ku88hr
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2019/08/film-van-helsing-2004-2-lk21.jpg"group-title="New Update",Van Helsing  
 http://abf.filmbluray.id/a0tcldv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51b6mLCvBuL._AC_UF894,1000_QL80_.jpg" group-title="New Update", Garfield
-https://bit.ly/3OaU35k
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg", Mercy 2026
+https://bit.ly/4c7IpQY
 
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg" group-title="New Update", Mercy
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=533834e5-2706-41cf-9f35-c251ca519ba5
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=533834e5-2706-41cf-9f35-c251ca519ba5&sub=t1
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg" group-title="New Update", Fall Guy
 #KODIPROP:inputstream=inputstream.adaptive
@@ -76,11 +76,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=c1be7fec-9fdb-4f1b-82f6-97da86830046
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c1be7fec-9fdb-4f1b-82f6-97da86830046&sub=t13
 
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-blade-ii-2002.jpg" group-title="New Update", Blade II
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a
-https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a&sub=t2
+
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/05/film-final-destination-bloodlines-2025-lk21-d21.jpg" group-title="New Update", Final Destination Bloodlines 2025 (melawan malaikat maut) (Horror)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -111,13 +107,18 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
-https://bit.ly/41IRGtM
-
-#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/02/film-mercy-2026-lk21.jpg", Mercy 2026
-https://bit.ly/4c7IpQY
 
 ======================================================================
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-hoppers-2026-lk21.jpg" group-title="ANAK", Hoppers (2026)
+https://bit.ly/4tmMgR4
+
+#EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2025/12/film-zootopia-2-2025-lk21.jpg" group-title="ANAK", Zootopia 2 (2025)
+https://bit.ly/4scsKFN
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51b6mLCvBuL._AC_UF894,1000_QL80_.jpg" group-title="ANAK", Garfield
+https://bit.ly/3OaU35k
+
 #EXTINF:-1 tvg-id="" tvg-name=" group-title="ANAK" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola: The Movie (2025)
 https://bit.ly/41IRGtM
 
