@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-up-2009.jpg", UP ( Rumah Balon )
+https://bit.ly/4c4MA19
+
 #EXTINF:-1 tvg-id="" tvg-name=" group-title="New Update" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2016/02/film-the-adventures-of-tintin-2011.jpg", Detektif Tintin Petualang
 https://bit.ly/3O8mTn9
 
@@ -124,6 +128,9 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 
 
 ======================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name=" group-title="ANAK" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2015/12/film-up-2009.jpg", UP ( Rumah Balon )
+https://bit.ly/4c4MA19
 
 #EXTINF:-1 tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-hoppers-2026-lk21.jpg" group-title="ANAK", Hoppers (2026)
 https://bit.ly/4tmMgR4
